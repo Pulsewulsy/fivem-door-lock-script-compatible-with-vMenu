@@ -1,6 +1,6 @@
 # fivem-door-lock-script-compatible-with-vMenu
 
-Certainly! Here's an example of a door script for FiveM using Lua that is compatible with vMenu, a popular menu framework for managing permissions and access control in FiveM servers:
+ 
 
 ```lua
 -- Define the door objects
